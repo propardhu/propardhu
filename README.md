@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **guttikondaparthasai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [MyResume](https://parthasaisresume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
