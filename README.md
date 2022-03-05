@@ -6,15 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
-- 🌱 I’m currently learning **fluters, iconic frame works**
-
-- 👨‍💻 All of my projects are available at [https://github.com/propardhu](https://github.com/propardhu)
-
-- 💬 Ask me about **vue, spring boot java, node.js, html, css, flask**
-
-- 📫 How to reach me **guttikondaparthasai@gmail.com**
-
-- 📄 Know about my experiences [MyResume](https://parthasaisresume.netlify.app/)
+- 📄 Know about my experiences [MyResume](https://parthasai.promisewebtech.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
