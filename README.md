@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </p>
-<h2 align="center">A passionate fullstack developer</h2>
+<h2 align="center">I am always interested in learning the answers to how, why, and what.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
