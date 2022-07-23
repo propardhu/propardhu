@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
-- 📄 Know about my experiences [MyResume](https://parthasai.promisewebtech.com/)
+- 📄 Know about my experiences [MyResume](https://parthasaisresume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
