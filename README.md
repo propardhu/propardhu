@@ -3,7 +3,7 @@
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </p>
 <h2 align="center">Keep It Simple 😉</h2>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
 - 📄 Know about my experiences [MyResume](https://guttikondaparthasai.info/Parthasai_Guttikonda_Resume.pdf)
