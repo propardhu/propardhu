@@ -5,6 +5,9 @@
 <h2 align="center">Keep It Simple 😉</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=propardhu&hide_progress=true)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=propardhu)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
 - 📄 Know about my experiences [MyResume](https://guttikondaparthasai.info/Parthasai_Guttikonda_Resume.pdf)
