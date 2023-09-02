@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propardhu&label=Profile%20views&color=0e75b6&style=plastic" alt="propardhu" /> </p>
 
 - 📄 Know about my experiences [MyResume](https://guttikondaparthasai.info/Parthasai_Guttikonda_Resume.pdf)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=propardhu&theme=dark&show_icons=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/partha-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="partha-sai" height="30" width="40" /></a>
